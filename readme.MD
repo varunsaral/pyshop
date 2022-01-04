@@ -7,4 +7,3 @@ Steps in this project:
 
 1) Installing the django , simply type <code>pip install django</code>
 2) For init the project , type <code> django-admin startproject <project-name> </code>
-3) 
